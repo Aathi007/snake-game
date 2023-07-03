@@ -1,0 +1,18 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+   color: rgb(76, 4, 192);
+}
+#board{
+    border:solid black;
+}
+#Score{
+    font-size: larger;
+    font-weight: 1000;
+    margin: 1em;
+}
+
